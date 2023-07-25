@@ -1,0 +1,18 @@
+.sidebar {
+    display: list-item;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar option {
+    cursor: pointer;
+    padding: 10px;
+    background-color: lightgray;
+    margin-bottom: 5px;
+}
+
+.sidebar li:hover {
+    background-color: gray;
+}

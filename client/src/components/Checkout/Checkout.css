@@ -1,0 +1,133 @@
+/* Styles for Checkout page */
+.card-registration {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.card-registration-2 {
+    background-color: #fff;
+    border: none;
+}
+
+.card-registration h1 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+.card-registration .btn {
+    font-size: 18px;
+    background-color: #e6d010;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.card-registration .btn:hover {
+    background-color: #5a6268;
+}
+
+.card-registration img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card-registration h6 {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.card-registration .col-md-3,
+.card-registration .col-lg-3,
+.card-registration .col-xl-3 {
+    padding: 0 15px;
+}
+
+.card-registration .col-md-2,
+.card-registration .col-lg-2,
+.card-registration .col-xl-2 {
+    padding: 0 15px;
+}
+
+.card-registration .col-md-1,
+.card-registration .col-lg-1,
+.card-registration .col-xl-1 {
+    text-align: end;
+}
+
+.card-registration .bg-grey {
+    background-color: #f2f2f2;
+}
+
+.card-registration .btn-dark {
+    background-color: #eb2d13;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.card-registration .btn-dark:hover {
+    background-color: #a06561;
+}
+
+.card-registration .btn-block {
+    width: 100px;
+}
+
+.card-registration .mb-4 {
+    margin-bottom: 1rem !important;
+}
+
+.card-registration .pt-5 {
+    padding-top: 3rem !important;
+}
+
+.card-registration .my-4 {
+    margin-top: 1.5rem !important;
+    margin-bottom: 1.5rem !important;
+}
+
+.card-registration .text-muted {
+    color: #6c757d !important;
+}
+
+.card-registration .text-black {
+    color: #000 !important;
+}
+
+.card-registration .text-body {
+    color: #212529 !important;
+}
+
+.card-registration .fw-bold {
+    font-weight: bold !important;
+}
+
+.card-registration hr {
+    border-top: 1px solid #dee2e6 !important;
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.picture {
+    width: 170px;
+    object-fit: cover;
+}
+
+.back {
+    background-color: #eb2d13;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.back:hover {
+    background-color: #a06561;
+}
